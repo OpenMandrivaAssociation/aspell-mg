@@ -14,7 +14,7 @@ Version:	0.03_0
 Release:	2
 Group:		System/Internationalization
 License:	GPLv2
-Url:		http://aspell.net/
+Url:		https://aspell.net/
 Source0:	http://ftp.gnu.org/gnu/aspell/dict/%{languagecode}/%{fname}-%{src_ver}.tar.bz2
 
 BuildRequires:	aspell >= %{aspell_ver}
